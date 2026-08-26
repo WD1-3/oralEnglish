@@ -1,133 +1,125 @@
 # oralEnglish
 
-一个面向长期坚持的英语口语训练仓库。核心目标不是“背很多连读词组”，而是建立 **Connected Speech（连续语流）** 的规则意识：看到陌生句子，也能自己判断重音、弱读、连读、失爆、同化和美式 T 等现象。
+**每天 20 分钟，用 42 天建立可迁移的美式英语自然语流能力。**
 
-## 总目标
+这里不是“连读技巧收藏夹”，也不是要求你背 500 个固定短语。
 
-- 每天只练 **20 分钟**，降低坚持成本。
-- 以 **美式英语** 为主。
-- 主线顺序：`重音 → 弱读 → Linking → 失爆/省音 → 同化 → Flap T / Stop T → 真实语流分析`。
-- 最终能力：看到一句没练过的英语，也能先预测自然读法，再用真人语料验证。
+最终目标是：
 
-## 固定资料组合
-
-### 1. 主课程：Rachel's English
-
-用于系统学习美式语流规则。重点关注：
-
-- Sentence Stress
-- Thought Groups
-- Schwa /ə/
-- Linking
-- Reductions
-- Flap T / Stop T
-- Ben Franklin Exercise
-
-课程入口：
-
-- https://rachelsenglish.com/intro-linking/
-- https://rachelsenglish.com/linking-and-thought-groups/
-- https://rachelsenglish.com/reductions-and-linking/
-- https://rachelsenglish.com/improve-sound-like-native-speaker/
-
-### 2. 每日真实输入：All Ears English
-
-定位：**真实美式口语输入源**，不是唯一教材。
-
-使用方法：每天只截取 3–5 分钟，重点观察当天学到的语流现象，不追求整集全部听懂。
-
-推荐 Connected Speech 相关内容：
-
-- https://www.allearsenglish.com/aee-1233-how-to-hang-on-when-natives-speak-fast/
-- https://www.allearsenglish.com/aee-1237-english-in-the-wild-getting-traction-in-native-conversations/
-
-### 3. 陌生句验证：YouGlish
-
-https://youglish.com/
-
-使用方法：
-
-1. 先自己预测一句话怎么连、哪里弱读。
-2. 把完整短语放进 YouGlish。
-3. 选择 US。
-4. 连续听 3–5 个真人例子。
-5. 对比自己的预测，再做 shadowing。
-
-### 4. 原理总览：BBC Connected Speech
-
-作为知识地图，不作为主要模仿口音来源。
-
-- https://downloads.bbc.co.uk/learningenglish/towardsadvanced/unit_30/bbc_tims_pron_wkshp_summary.pdf
-
-重点认识：weak forms、schwa、assimilation、sound deletion、connected speech。
+> 给你一句从没练过的英语，你能先判断 **thought groups → prominence → weak forms → linking → T / sound changes**，自己预测自然读法，再用真人语料验证。
 
 ---
 
-# 每天固定 20 分钟
+# 🚀 从这里开始
 
-## 0–5 分钟：学 1 个规律
+## [进入 42 天课程 →](course/README.md)
 
-只看当天 Rachel's English 的一小段内容，不连续刷很多知识点。
+不要提前刷课。每天只做当天 **20 分钟**。
 
-## 5–10 分钟：跟读 3–5 句
+课程结构：
 
-固定流程：
-
-`听一句 → 看 transcript → 标记重音/连读 → 慢速读 → 模仿原音`
-
-## 10–15 分钟：AEE 实战
-
-只听 3–5 分钟，寻找“今天刚学的现象”。
-
-例如今天学 reduction，就特别注意：`to / for / and / can / have / you`。
-
-## 15–20 分钟：迁移训练
-
-教材出现：
-
-> pick it up
-
-不要停在背这一句。自己再尝试：
-
-> turn it on  
-> take it away  
-> leave it open
-
-先自己预测，再用 YouGlish 验证。
+| 周 | Day | 主题 | 结果 |
+|---|---:|---|---|
+| Week 1 | 1–7 | Prominence / Rhythm / Schwa / Thought Groups | 听见英语的轻重和分组 |
+| Week 2 | 8–14 | Consonant → Vowel | 能预测最常见的跨词连接 |
+| Week 3 | 15–21 | C→C / V→V / Smooth Line | 不再逐词断开 |
+| Week 4 | 22–28 | Weak Forms / Reductions | 开始听见“消失的小词” |
+| Week 5 | 29–35 | Flap T / Stop T / Assimilation / Elision | 理解拼写和实际听感差异 |
+| Week 6 | 36–42 | Ben Franklin / Authentic Speech | 陌生句分析 + 自由迁移 |
 
 ---
 
-# 6 周路线
+# 每天为什么这样练？
 
-| 周次 | 核心主题 | 这一周结束时应该做到 |
-|---|---|---|
-| Week 1 | Thought Groups + Sentence Stress + Schwa | 能看出一句话哪里重、哪里轻 |
-| Week 2 | Consonant → Vowel Linking | 能自己发现 `pick_it_up` 类型连接 |
-| Week 3 | Consonant → Consonant + Vowel → Vowel | 不再逐词断开念 |
-| Week 4 | Weak Forms + Reduction | 能识别常见功能词弱读 |
-| Week 5 | Flap T + Stop T + Assimilation + Elision | 理解为什么实际听感和拼写差很多 |
-| Week 6 | Ben Franklin + AEE + YouGlish | 能分析陌生句并预测自然语流 |
+课程采用发音教学中常用的 **Communicative Framework**，压缩成个人自学版：
 
-详细执行见：[`docs/6-week-plan.md`](docs/6-week-plan.md)
+1. **Awareness / Description** — 先知道今天在听什么。
+2. **Listening Discrimination** — 先让耳朵分辨。
+3. **Controlled Production** — 再慢速、准确地做出口腔动作。
+4. **Guided Production** — 自己生成没见过的句子。
+5. **Communicative Transfer** — 最后脱离教材说自己的内容。
 
-语流规则总讲义见：[`docs/connected-speech-notes.md`](docs/connected-speech-notes.md)
+因此每天固定约 20 分钟：
 
-每日模板见：[`templates/daily-20min.md`](templates/daily-20min.md)
+`3 min 规则 → 4 min 听辨 → 5 min 模仿 → 5 min 迁移 → 3 min 自由输出`
 
-每周复盘见：[`templates/weekly-review.md`](templates/weekly-review.md)
+**只看视频，不开口，不算完成。**
+
+完整教学依据：[`docs/teaching-design.md`](docs/teaching-design.md)
 
 ---
 
-# 最终学习原则
+# 核心资料组合
 
-不要把目标设成：
+我们不让你每天到处找资料，而是给每个来源一个固定职责。
 
-> 记住 500 个固定连读表达。
+### Rachel's English — 主讲老师
 
-真正目标是：
+负责美式英语的 stress、linking、reductions、Flap T / Stop T 和 Ben Franklin 真人语流拆解。
 
-> 给我一句没见过的英语，我能根据重音和相邻声音，预测它在自然语流里大概会发生什么。
+### Teaching Pronunciation with Confidence — 教学与讲义底座
 
-学习闭环固定为：
+Iowa State University 开放教材。用于系统校准 rhythm、prominence、intonation、connected speech 和 diagnostic tasks。
 
-**学规则 → 模仿 → 在真实英语里发现 → 自己迁移 → 真人语料验证。**
+### All Ears English — 每日真实输入
+
+不当系统教材。每次只截 20–60 秒，寻找当天学到的现象。
+
+### YouGlish — 陌生句验证
+
+必须 **先预测，再查真人**。不要把它变成答案生成器。
+
+### British Council / TeachingEnglish — 原理与听辨练习
+
+用于 weak forms、schwa、connected speech 等知识的第二解释和课堂活动改编。
+
+完整筛选结果：[`docs/resource-map.md`](docs/resource-map.md)
+
+---
+
+# 42 天课程
+
+- [Week 1｜英语语流骨架](course/week-01-foundation.md)
+- [Week 2｜Consonant → Vowel Linking](course/week-02-cv-linking.md)
+- [Week 3｜C→C / V→V](course/week-03-other-linking.md)
+- [Week 4｜Weak Forms & Reductions](course/week-04-reductions.md)
+- [Week 5｜American T + Sound Modification](course/week-05-t-and-modification.md)
+- [Week 6｜Ben Franklin + Transfer](course/week-06-transfer.md)
+
+---
+
+# 辅助讲义
+
+- [Connected Speech 核心讲义](docs/connected-speech-notes.md)
+- [6 周总路线](docs/6-week-plan.md)
+- [精选资料地图](docs/resource-map.md)
+- [教学设计依据](docs/teaching-design.md)
+- [每日 20 分钟模板](templates/daily-20min.md)
+- [每周复盘模板](templates/weekly-review.md)
+
+---
+
+# 统一标记法
+
+- `/` = thought-group boundary
+- `●WORD` = prominence
+- `_` = linking
+- `(ə)` = weak / schwa 提示
+- `[T→ɾ]` = Flap T
+- `[T stop]` = Stop T
+- `[Ø]` = deletion
+- `[→]` = assimilation / modification
+
+不用把每句话标成语言学论文。标记只服务于“看见声音结构”。
+
+---
+
+# 最重要的学习闭环
+
+**听出 → 理解 → 模仿 → 自己生成 → 真人验证 → 放进自由表达。**
+
+如果当天很忙，做 8 分钟最低版也不要断：
+
+`2 min 规则 + 2 min 听 + 2 min 跟读 + 2 min 自己说`
+
+长期连续，比偶尔练一小时更重要。
