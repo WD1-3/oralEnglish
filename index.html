@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#101114" />
+  <title>oralEnglish · 20 分钟口语课</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">ORAL ENGLISH · AUDIO FIRST</div>
+      <h1>每天 20 分钟口语课</h1>
+    </div>
+    <a class="repo-link" href="https://github.com/WD1-3/oralEnglish" target="_blank" rel="noreferrer">GitHub</a>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <div class="hero-copy">
+        <span class="pill" id="dayPill">Day —</span>
+        <h2 id="dayTitle">正在载入今天的课程…</h2>
+        <p id="dayMeta">课程起点：2026-08-26 · 每天约 20 分钟</p>
+      </div>
+      <div class="hero-actions">
+        <button class="primary" id="todayBtn">回到今天</button>
+        <button class="secondary" id="stopBtn">停止播放</button>
+      </div>
+    </section>
+
+    <section class="audio-status" aria-live="polite">
+      <div class="dot"></div>
+      <div>
+        <strong>点句子旁边的 ▶ 就能听</strong>
+        <p>仓库有 GPT/OpenAI MP3 时优先播 MP3；暂未生成时自动使用设备的 en-US 语音兜底。真人主素材仍以 B 站 Rachel / VOA / AEE 等为准。</p>
+      </div>
+    </section>
+
+    <nav class="day-nav" aria-label="课程导航">
+      <button id="prevBtn">← 前一天</button>
+      <select id="daySelect" aria-label="选择 Day"></select>
+      <button id="nextBtn">后一天 →</button>
+    </nav>
+
+    <section id="lesson" class="lesson" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>目标：intelligibility · listening segmentation · rhythm · connected speech · transfer</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
