@@ -8,7 +8,8 @@ const lessons = {
   4:{title:'Rhythm：自然不等于说得快',remember:'英语节奏的关键是重的更突出，轻的更短。',sentences:['The birds will eat the worms.','I really need some help.','I want to buy a book.','We can meet after class.'],output:'What are you going to do tomorrow?',source:'https://www.bilibili.com/video/BV1tV411W7Nj/?p=5'},
   5:{title:'Thought Groups：该连的地方连，该停的地方停',remember:'一句话要按意义分组，组内连续，组间轻停。',sentences:['When I got home, I realized I had left my phone at work.','After class, I am going to the library.','If you have time, give me a call.','I wanted to go, but I was too tired.'],output:'Describe your plan for the rest of the day.',source:'https://www.bilibili.com/video/BV13t411K71f/'},
   6:{title:'真实语料实验：为什么认识词却听不见',remember:'听不见不一定是不认识，可能是弱读、连读或分组判断错了。',sentences:['I wanted to call you after class.','I had to finish a project first.','Can you give me a minute?'],output:'Summarize what you heard in 20–30 seconds.',source:'https://www.allearsenglish.com/aee-1233-how-to-hang-on-when-natives-speak-fast/'},
-  7:{title:'Week 1 诊断与录音基线',remember:'今天不学新规则，只检查你能不能主动找重点、弱读和分组。',sentences:['I wanted to call you after class, but I had to finish a project first.'],output:'What was the most important thing you did this week?',source:'https://youglish.com/'}
+  7:{title:'Week 1 诊断与录音基线',remember:'今天不学新规则，只检查你能不能主动找重点、弱读和分组。',sentences:['I wanted to call you after class, but I had to finish a project first.'],output:'What was the most important thing you did this week?',source:'https://youglish.com/'},
+  8:{title:'C→V Linking：先听见词边界消失',remember:'前词辅音结尾、后词元音开头时，不要停顿；让尾辅音自然带到后面的元音。',sentences:['Turn it on.','Take it out.','Leave it open.','Look at it.','Check it again.'],output:'What are three things you need to do today? Try to use at least one consonant-to-vowel link.',source:'https://www.bilibili.com/video/BV13t411K71f/?p=11'}
 };
 
 function dayFromDate(){
